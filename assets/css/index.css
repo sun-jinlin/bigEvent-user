@@ -1,0 +1,48 @@
+
+/* 字体图标 */
+.layui-icon {
+    font-size: 18px;
+    margin-right: 8px;
+}
+/* 调整头像 */
+.text_img {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 36px;
+    background-color: #009688;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    vertical-align:middle;
+    margin-right: 6px;
+     display: none;
+}
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+  
+}
+/* 左侧头像栏 */
+.left_username {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+/* 调整iframe */
+iframe {
+    width: 100%;
+    height: 100%;
+}
+/* 去掉iframe滚动条 */
+.layui-body {
+    overflow: hidden;
+}
+
+
+
+
